@@ -3,7 +3,7 @@ body{
     background-color: #111;
 }
 header{
-    background-image: url(/img/principla.png);
+    background-image: url('img/principla.png');
     background-size: cover;
 }
 
